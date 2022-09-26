@@ -7,7 +7,7 @@ body{
 .header{
     height: 300px;
     width: 100%;
-    background-image: url("ImagenesReto/header.jpg");
+    background-image: url("./ImagenesReto/header.jpg");
     background-position: center;
     padding-top: 20px;
 }
@@ -129,7 +129,7 @@ body{
     color: aliceblue;
     height: 500px;
     width: 100%;
-    background-image: url("ImagenesReto/encuentra.jpg");
+    background-image: url("./ImagenesReto/encuentra.jpg");
     background-position: center;
     padding: 20px 0 20px 0;
 }
